@@ -6,5 +6,6 @@ This is an R markdown document. markdown is a simple formatting syntax for autor
 - kmm
 
 ```
- stud
+ study
 ```
+[^1]: markdown study
